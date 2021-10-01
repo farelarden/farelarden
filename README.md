@@ -5,7 +5,7 @@ I'm a data enthusiast and currently love working with machine learning.
 [![Linkedin: FarelArden](https://img.shields.io/badge/-FarelArden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farel-arden/)](https://www.linkedin.com/in/farel-arden/)
 
 
-<img align='right' src="https://github.com/alphaprime27/alphaprime27/blob/main/200611-EN-GIF-GIFs-Rule.gif" width="230">
+<img align='right' src="https://github.com/farelarden/farelarden/blob/main/200611-EN-GIF-GIFs-Rule.gif" width="230">
 
  
 <p align="left">
