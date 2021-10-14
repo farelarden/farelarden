@@ -9,7 +9,7 @@ I'm a data enthusiast and currently love working with machine learning.
 
  
 <p align="left">
-<a href="https://github.com/alphaprime27">
+<a href="https://github.com/farelarden">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=farelarden&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farelarden&layout=compact&langs_count=8&theme=algolia"/>
 </a>
