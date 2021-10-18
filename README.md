@@ -14,6 +14,8 @@ I'm a data enthusiast and currently love working with machine learning.
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farelarden&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <!-- You can contact me through:
 
 * Email: farelarden13@gmail.com
